@@ -8,11 +8,12 @@ To do this, the client and server will need Better Questing and Better Questing 
 
 https://minecraft.curseforge.com/projects/better-questing?gameCategorySlug=mc-mods&projectID=238856 https://minecraft.curseforge.com/projects/better-questing-standard-expansion
 
-The ones I used were BetterQuesting-2.3.198.jar and StandardExpansion-2.3.120.jar, but newer versions should work.
+The ones I used were BetterQuesting-2.3.198.jar and StandardExpansion-2.3.120.jar, but newer versions should work. If your just running Minecraft as a client, drop these jar files into the mods folder inside "FTB Presents SkyFactory 3". 
 
-If your just running Minecraft as a client, drop these jar files into the mods folder inside "FTB Presents SkyFactory 3" Inside the config folder there needs to be a folder called "betterquesting", and inside of this you need to place the following .json file.
+Inside the FTB Presents SkyFactory 3/config folder, place the betterquesting folder from here. 
 
-https://github.com/GrimGear/SF3-Better-Quests/blob/master/DefaultQuests.json
+https://github.com/GrimGear/SF3-Better-Quests
 
 Once this is all set, open your world and type in "/bq_admin default load"
+
 If you are running a server, the clients and server will need BetterQuesting-2.3.198.jar and StandardExpansion-2.3.120.jar, but the DefaultQuests file can just go on the server. Same "/bq_admin default load" command will work, just use it through the server.
