@@ -1,13 +1,13 @@
 {
   "questSettings": {
     "betterquesting": {
-      "home_anchor_y": 0,
+      "home_anchor_y": 0.5,
       "home_anchor_x": 0.5,
       "hardcore": false,
-      "home_image": "mainmenu:modpack.png",
-      "editMode": false,
-      "home_offset_x": -1280,
-      "home_offset_y": 0
+      "home_image": "skyfactory3:textures/gui/sf3_bq_home.png",
+      "editMode": true,
+      "home_offset_x": -128,
+      "home_offset_y": -64
     }
   },
   "questDatabase": [
