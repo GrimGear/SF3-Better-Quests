@@ -1,0 +1,5716 @@
+{
+  "questSettings": {
+    "betterquesting": {
+      "home_anchor_y": 0,
+      "home_anchor_x": 0.5,
+      "hardcore": false,
+      "home_image": "mainmenu:modpack.png",
+      "editMode": false,
+      "home_offset_x": -1280,
+      "home_offset_y": 0
+    }
+  },
+  "questDatabase": [
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "exnihiloadscensio:crookWood",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use a Crook on leaves to get saplings and a Silkworm",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use a Crook on leaves to get saplings and a Silkworm"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 0
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:sapling",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Twerk a Sapling into a Tree",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Twerk a Sapling into a Tree"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 1
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:dirt",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Make Dirt by composting saplings or leaves in an Oak Barrel",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Make Dirt by composting saplings or leaves in an Oak Barrel"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 2
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "exnihiloadscensio:itemMaterial",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 2
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Infest leaves with a Silkworm",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Infest leaves with a Silkworm"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 3
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:string",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use a Crook on Infested Leaves to get string",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use a Crook on Infested Leaves to get string"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 4
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "exnihiloadscensio:blockSieve",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a Sieve and a string mesh",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a Sieve and a string mesh"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 5
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:water_bucket",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Collect rain water in an Oak Barrel or melt saplings in a Wooden Crucible",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Collect rain water in an Oak Barrel or melt saplings in a Wooden Crucible"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 6
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "exnihiloadscensio:itemPebble",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft Cobblestone from the Small Stones that drop from sifting Dirt",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft Cobblestone from the Small Stones that drop from sifting Dirt"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 7
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "exnihiloadscensio:hammerWood",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a Hammer to turn Cobble into Gravel, Gravel into Sand, and Sand into Dust",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a Hammer to turn Cobble into Gravel, Gravel into Sand, and Sand into Dust"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 8
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:sand",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Sift Gravel, Sand, and Dust in a Sieve",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Sift Gravel, Sand, and Dust in a Sieve"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 9
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "tconstruct:pickaxe",
+            "Count": 1,
+            "tag": {
+              "StatsOriginal:10": {
+                "Durability:3": 54,
+                "Attack:5": 2.9000000953674316,
+                "AttackSpeedMultiplier:5": 1.0,
+                "FreeModifiers:3": 3,
+                "HarvestLevel:3": 1,
+                "MiningSpeed:5": 5.0
+              },
+              "Special:10": {
+                "Categories:9": {
+                  "8": "tool"
+                }
+              },
+              "TinkerData:10": {
+                "Materials:9": {
+                  "8": "flint"
+                },
+                "Modifiers:9": {
+                  "8": "toolleveling"
+                }
+              },
+              "Stats:10": {
+                "Durability:3": 54,
+                "Attack:5": 2.9000000953674316,
+                "AttackSpeedMultiplier:5": 1.0,
+                "FreeModifiers:3": 3,
+                "HarvestLevel:3": 1,
+                "MiningSpeed:5": 5.0
+              },
+              "Traits:9": {
+                "8": "toolleveling"
+              },
+              "Modifiers:9": {
+                "10": {
+                  "color:3": 16777215,
+                  "level:3": 1,
+                  "identifier:8": "toolleveling"
+                }
+              }
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Make Tinkers\u0027 Construct Tools from Bone or Flint",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Make Tinkers\u0027 Construct Tools from Bone or Flint"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 10
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:clay_ball",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Make Clay by putting Dust into a water filled Barrel",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Make Clay by putting Dust into a water filled Barrel"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 11
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "exnihiloadscensio:blockCrucible",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft and cook a Crucible",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft and cook a Crucible"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 12
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:lava_bucket",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Heat a Crucible with a Torch and insert Stones or Cobble to make Lava",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Heat a Crucible with a Torch and insert Stones or Cobble to make Lava"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 13
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:cobblestone",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Build a Cobblestone generator",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Build a Cobblestone generator"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 14
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:skull",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 4
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Make a dark room 25 blocks away from your base for spawning mobs and obtaining loot",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Make a dark room 25 blocks away from your base for spawning mobs and obtaining loot"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 15
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "props:props",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 235
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Make a field of grass 25 blocks away from your base for spawning animals",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Make a field of grass 25 blocks away from your base for spawning animals"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 16
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:ladder",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Build a second layer to your island, below the level you started from",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Build a second layer to your island, below the level you started from"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 17
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:obsidian",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Make Obsidian with a Stone Barrel",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Make Obsidian with a Stone Barrel"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 18
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "tconstruct:smeltery_controller",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Make a Tinkers\u0027 Construct smeltery for processing ore",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Make a Tinkers\u0027 Construct smeltery for processing ore"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 19
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "tconstruct:pick_head",
+            "Count": 1,
+            "tag": {
+              "Material:8": "cobalt"
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Upgrade an existing Tinkers\u0027 tool with a metal part",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Upgrade an existing Tinkers\u0027 tool with a metal part"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 20
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "tp:cobblegen_block",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Automate your Cobble with Cobblestone Generator Block or Transfer Node",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Automate your Cobble with Cobblestone Generator Block or Transfer Node"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 21
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "extrautils2:spike_stone",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Upgrade your mob farm to kill monsters automatically",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Upgrade your mob farm to kill monsters automatically"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 22
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "extrautils2:WateringCan",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Make a Watering Can",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Make a Watering Can"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 23
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "cookingforblockheads:cowJar",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Capture a Cow in a Jar",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Capture a Cow in a Jar"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 24
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:iron_hoe",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Prepare a farming space for several crops",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Prepare a farming space for several crops"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 25
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:tier1_inferium_seeds",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft an Inferium Seed",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft an Inferium Seed"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 26
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "tconstruct:mattock",
+            "Count": 1,
+            "tag": {
+              "StatsOriginal:10": {
+                "Durability:3": 350,
+                "HarvestLevelShovel:3": 0,
+                "Attack:5": 8.5,
+                "AttackSpeedMultiplier:5": 1.0,
+                "FreeModifiers:3": 3,
+                "HarvestLevel:3": 0,
+                "HarvestLevelAxe:3": 0,
+                "MiningSpeed:5": 6.0
+              },
+              "Special:10": {
+                "Categories:9": {
+                  "8": "tool"
+                }
+              },
+              "TinkerData:10": {
+                "Materials:9": {
+                  "8": "firewood"
+                },
+                "Modifiers:9": {
+                  "8": "toolleveling"
+                }
+              },
+              "Stats:10": {
+                "Durability:3": 350,
+                "HarvestLevelShovel:3": 0,
+                "Attack:5": 8.5,
+                "AttackSpeedMultiplier:5": 1.0,
+                "FreeModifiers:3": 3,
+                "HarvestLevel:3": 0,
+                "HarvestLevelAxe:3": 0,
+                "MiningSpeed:5": 6.0
+              },
+              "Traits:9": {
+                "8": "toolleveling"
+              },
+              "Modifiers:9": {
+                "10": {
+                  "color:3": 16777215,
+                  "level:3": 1,
+                  "identifier:8": "toolleveling"
+                }
+              }
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Make a Mattock from Tinkers\u0027 Construct",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Make a Mattock from Tinkers\u0027 Construct"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 27
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "harvestcraft:steakandchipsItem",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Start a food farm and an Inferium Essence Farm",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Start a food farm and an Inferium Essence Farm"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 28
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "snad:snad",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Prove to the world that Sand grows Sugar Cane faster than dirt with a Block of Snad",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Prove to the world that Sand grows Sugar Cane faster than dirt with a Block of Snad"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 29
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "hatchery:pen",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use Nesting Pens to automate resource collection from Chickens",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use Nesting Pens to automate resource collection from Chickens"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 30
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:iron_seeds",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft an Iron Seed",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft an Iron Seed"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 31
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:diamond_seeds",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a Diamond Seed",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a Diamond Seed"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 32
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:soulium_dagger",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use a Soulium Dagger to obtain a Mob Chunk",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use a Soulium Dagger to obtain a Mob Chunk"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 33
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "tp:growth_block",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use Growth Crystals or Growth Accelerators to speed up crop growth",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use Growth Crystals or Growth Accelerators to speed up crop growth"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 34
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:master_infusion_crystal",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a Master Infustion Crystal",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a Master Infustion Crystal"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 35
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:supremium_apple",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a Supremium Apple",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a Supremium Apple"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 36
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:supremium_chestplate",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft Supremium armor",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft Supremium armor"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 37
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "actuallyadditions:itemWingsOfTheBats",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Fly",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Fly"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 38
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "opencomputers:upgrade",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use an Angel Block and your ability to fly to start a new island somewhere else",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use an Angel Block and your ability to fly to start a new island somewhere else"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 39
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:netherrack",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Travel to the Nether",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Travel to the Nether"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 40
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:boat",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Travel to the bottom of the Nether using a boat",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Travel to the bottom of the Nether using a boat"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 41
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:blaze_rod",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use a Diamond Chest Transporter to bring home 5 Blaze Spawners",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use a Diamond Chest Transporter to bring home 5 Blaze Spawners"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 42
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:charm_wither",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Kill a Wither",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Kill a Wither"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 43
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "beneath:teleporterbeneath",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Travel to The Beneath Dimension",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Travel to The Beneath Dimension"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 44
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "dimensionalcake:blockEndCake",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Travel to the End",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Travel to the End"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 45
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:skull",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 5
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Kill the Ender Dragon",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Kill the Ender Dragon"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 46
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:dragon_breath",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Collect Dragons Breath",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Collect Dragons Breath"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 47
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:elytra",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Travel to the End City and obtain Elytra",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Travel to the End City and obtain Elytra"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 48
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:dragon_egg",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Hatch a Dragon Egg and train it",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Hatch a Dragon Egg and train it"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 49
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "enderio:blockStirlingGenerator",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft and power a generator of some kind",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft and power a generator of some kind"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 50
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "enderio:blockSagMill",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Automate turning Cobblestone into Gravel with a SAG Mill or Auto Hammer",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Automate turning Cobblestone into Gravel with a SAG Mill or Auto Hammer"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 51
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "enderio:itemPowerConduit",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use Energy Conduits to power several machines at once",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use Energy Conduits to power several machines at once"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 52
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "lootbags:itemlootbag",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 11
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Automate Loot Bag Creation, Opening, and Compression",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Automate Loot Bag Creation, Opening, and Compression"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 53
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:tier1_inferium_crop",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Automate crop harvesting",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Automate crop harvesting"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 54
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "enderstorage:enderPouch",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Link an Ender Pouch to an Ender Chest",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Link an Ender Pouch to an Ender Chest"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 55
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "refinedstorage:controller",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 1
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create a Refined Storage system to store your things",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create a Refined Storage system to store your things"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 56
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "exnihiloadscensio:itemOreGold",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Automate storage of ore pieces/chunks from an Automatic Sieve",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Automate storage of ore pieces/chunks from an Automatic Sieve"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 57
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:gold_ingot",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Process sieve materials to ingots",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Process sieve materials to ingots"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 58
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bigreactors:reactorController",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create a Passively cooled reactor from the Extreme Reactors Mod",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create a Passively cooled reactor from the Extreme Reactors Mod"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 59
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bigreactors:reactorCoolantPort",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create an Actively cooled reactor from the Extreme Reactors Mod",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create an Actively cooled reactor from the Extreme Reactors Mod"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 60
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bigreactors:reactorCasing",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create the maximum size reactor",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create the maximum size reactor"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 61
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bigreactors:turbineController",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create a turbine from the Extreme Reactors Mod",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create a turbine from the Extreme Reactors Mod"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 62
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "actuallyadditions:itemBattery",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 0
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Produce 1,000 RF/t",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Produce 1,000 RF/t"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 63
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "actuallyadditions:itemBatteryDouble",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 2000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Produce 10,000 RF/t",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Produce 10,000 RF/t"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 64
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "actuallyadditions:itemBatteryQuadruple",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 0
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Produce 100k RF/t",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Produce 100k RF/t"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 65
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "actuallyadditions:itemBatteryQuintuple",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Produce 1 million RF/t",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Produce 1 million RF/t"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 66
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "environmentaltech:controller_solar_1",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Build a Solar Array Tier 1 Multiblock Structure",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Build a Solar Array Tier 1 Multiblock Structure"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 67
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "environmentaltech:lightning_rod",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Harness the power of Lightning with a Lightning Rod",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Harness the power of Lightning with a Lightning Rod"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 68
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "environmentaltech:controller_solar_4",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Build a Solar Array Tier 4 Multiblock Structure",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Build a Solar Array Tier 4 Multiblock Structure"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 69
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "environmentaltech:controller_void_ore_miner_1",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Collect Ore from the Void with a Void Ore Miner Structure",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Collect Ore from the Void with a Void Ore Miner Structure"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 70
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "tconstruct:pickaxe",
+            "Count": 1,
+            "tag": {
+              "StatsOriginal:10": {
+                "Durability:3": 685,
+                "Attack:5": 8.720000267028809,
+                "AttackSpeedMultiplier:5": 1.0,
+                "FreeModifiers:3": 3,
+                "HarvestLevel:3": 4,
+                "MiningSpeed:5": 7.019999980926514
+              },
+              "Special:10": {
+                "Categories:9": {
+                  "8": "tool"
+                }
+              },
+              "TinkerData:10": {
+                "Materials:9": {
+                  "8": "manyullyn"
+                },
+                "Modifiers:9": {
+                  "8": "toolleveling"
+                }
+              },
+              "Stats:10": {
+                "Durability:3": 685,
+                "Attack:5": 8.720000267028809,
+                "AttackSpeedMultiplier:5": 1.0,
+                "FreeModifiers:3": 3,
+                "HarvestLevel:3": 4,
+                "MiningSpeed:5": 7.019999980926514
+              },
+              "Traits:9": {
+                "8": "toolleveling"
+              },
+              "Modifiers:9": {
+                "10": {
+                  "color:3": 16777215,
+                  "level:3": 1,
+                  "identifier:8": "toolleveling"
+                }
+              }
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Level up a Tinkers\u0027 Tool or Weapon",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Level up a Tinkers\u0027 Tool or Weapon"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 71
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "excompressum:double_compressed_diamond_hammer",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Add a Diamond Hammer to a Tinkers\u0027 Pickaxe to obtain the Smashing Modifier",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Add a Diamond Hammer to a Tinkers\u0027 Pickaxe to obtain the Smashing Modifier"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 72
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "betterbuilderswands:wandUnbreakable",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 14
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft the highest tier Unbreakable Builder\u0027s Wand",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft the highest tier Unbreakable Builder\u0027s Wand"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 73
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "tconstruct:large_plate",
+            "Count": 1,
+            "tag": {
+              "Material:8": "obsidian"
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create an unbreakable Tinkers\u0027 Tool",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create an unbreakable Tinkers\u0027 Tool"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 74
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "tconstruct:broadsword",
+            "Count": 1,
+            "tag": {
+              "StatsOriginal:10": {
+                "Durability:3": 481,
+                "Attack:5": 8.0,
+                "AttackSpeedMultiplier:5": 1.0,
+                "FreeModifiers:3": 3,
+                "HarvestLevel:3": 0,
+                "MiningSpeed:5": 2.0999999046325684
+              },
+              "Special:10": {
+                "Categories:9": {
+                  "8": "tool"
+                }
+              },
+              "TinkerData:10": {
+                "Materials:9": {
+                  "8": "magmaslime"
+                },
+                "Modifiers:9": {
+                  "8": "toolleveling"
+                }
+              },
+              "Stats:10": {
+                "Durability:3": 481,
+                "Attack:5": 8.0,
+                "AttackSpeedMultiplier:5": 1.0,
+                "FreeModifiers:3": 3,
+                "HarvestLevel:3": 0,
+                "MiningSpeed:5": 2.0999999046325684
+              },
+              "Traits:9": {
+                "8": "toolleveling"
+              },
+              "Modifiers:9": {
+                "10": {
+                  "color:3": 16777215,
+                  "level:3": 1,
+                  "identifier:8": "toolleveling"
+                }
+              }
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a melee Tinkers\u0027 Weapon that does 20 damage or more",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a melee Tinkers\u0027 Weapon that does 20 damage or more"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 75
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:supremium_sword_strength2",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Build any melee weapon that does 90 or more damage",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Build any melee weapon that does 90 or more damage"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 76
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bloodmagic:BlockAltar",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft and Place a Blood Altar",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft and Place a Blood Altar"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 77
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bloodmagic:ItemBloodOrb",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 3
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Obtain a Master Blood Orb",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Obtain a Master Blood Orb"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 78
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bloodmagic:BlockLifeEssence",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Automate LP Collection",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Automate LP Collection"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 79
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bloodmagic:ItemSoulSnare",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use the Rudimentary Snare to obtain a Demonic Will",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use the Rudimentary Snare to obtain a Demonic Will"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 80
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bloodmagic:ItemSigilPhantomBridge",
+            "Count": 1,
+            "tag": {},
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use the Sigil of the Phantom Bridge to walk over the void",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use the Sigil of the Phantom Bridge to walk over the void"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 81
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bloodmagic:ItemBoundSword",
+            "Count": 1,
+            "tag": {
+              "Unbreakable:1": 1
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft the Bound Blade, Pickaxe, Axe, and Shovel",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft the Bound Blade, Pickaxe, Axe, and Shovel"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 82
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bloodmagic:ItemLivingArmourChest",
+            "Count": 1,
+            "tag": {},
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Obtain the Living Armor",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Obtain the Living Armor"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 83
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bloodmagic:ItemSlate",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 3
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Automate the creation of Demonic Slates",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Automate the creation of Demonic Slates"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 84
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "bloodmagic:BlockAltar",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create a Tier 5 Blood Altar",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create a Tier 5 Blood Altar"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 85
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "botania:lexicon",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a Lexica Botania",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a Lexica Botania"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 86
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "botania:altar",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a Petal Apothecary",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a Petal Apothecary"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 87
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "botania:specialFlower",
+            "Count": 1,
+            "tag": {
+              "type:8": "puredaisy"
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create 64 Livingwood and 64 Livingrock with a Pure Daisy",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create 64 Livingwood and 64 Livingrock with a Pure Daisy"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 88
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "botania:pool",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a Mana Pool and a Mana Spreader",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a Mana Pool and a Mana Spreader"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 89
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "botania:twigWand",
+            "Count": 1,
+            "tag": {
+              "color1:3": 0,
+              "color2:3": 0
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a Wand of the Forest",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a Wand of the Forest"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 90
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "botania:alfheimPortal",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create a portal to Alfheim",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create a portal to Alfheim"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 91
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "botania:manaResource",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 5
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Complete the Ritual of Gaia",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Complete the Ritual of Gaia"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 92
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "botania:gaiaHead",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Complete the Ritual of Gaia II",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Complete the Ritual of Gaia II"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 93
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_chest",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft the Draconic Armor Set",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft the Draconic Armor Set"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 94
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_helm",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Draconic Helm",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Draconic Helm"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 95
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_chest",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Draconic Chestplate",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Draconic Chestplate"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 96
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_legs",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Draconic Leggings",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Draconic Leggings"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 97
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_boots",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Draconic Boots",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Draconic Boots"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 98
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_pick",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft the Draconic Tools",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft the Draconic Tools"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 99
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_pick",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Draconic Pickaxe",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Draconic Pickaxe"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 100
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_axe",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Draconic Axe",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Draconic Axe"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 101
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_shovel",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Draconic Shovel",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Draconic Shovel"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 102
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_hoe",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 16000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Draconic Hoe",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Draconic Hoe"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 103
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:draconic_staff_of_power",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 48000000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Draconic Staff of Power",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Draconic Staff of Power"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 104
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mob_grinding_utils:wither_muffler",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Automate Wither killing",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Automate Wither killing"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 105
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:chaos_shard",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 2
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Kill a chaos dragon",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Kill a chaos dragon"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 106
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:chaos_shard",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Kill 4 chaos dragons",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Kill 4 chaos dragons"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 107
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:energy_storage_core",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Build a tier 6 energy core",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Build a tier 6 energy core"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 108
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:dislocator",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Make a charm of dislocation",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Make a charm of dislocation"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 109
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:skull",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 5
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Resurrect one of the dragons",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Resurrect one of the dragons"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 110
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "chisel:technicalNew",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 3
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Fill a Draconic battery",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Fill a Draconic battery"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 111
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "draconicevolution:crafting_pedestal",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 2
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create a Draconic Level Fusion Crafter",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create a Draconic Level Fusion Crafter"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 112
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "mysticalagriculture:charm_jump",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Jump between 2 tamed dragons while in midair (while both are flying)",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Jump between 2 tamed dragons while in midair (while both are flying)"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 113
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "rftoolsdim:dimlet_parcel",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Obtain a Dimlet Parcel from an Endermen or Loot Bag",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Obtain a Dimlet Parcel from an Endermen or Loot Bag"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 114
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "rftoolsdim:dimension_builder",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Build a dimension, travel to it, and stay for at least 10 minutes",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Build a dimension, travel to it, and stay for at least 10 minutes"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 115
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "rftools:machine_infuser",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Infuse your Machine Infuser to 100 Percent",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Infuse your Machine Infuser to 100 Percent"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 116
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "rftoolsdim:liquid_absorber",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use the Absorber to create a custom liquid or block dimension",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use the Absorber to create a custom liquid or block dimension"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 117
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "rftoolsdim:dimlet_control_circuit",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 4
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create a dimension of Rarity: 4 or higher consisting of Large Liquid Orbs",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create a dimension of Rarity: 4 or higher consisting of Large Liquid Orbs"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 118
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "rftools:syringe",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use a syringe to create a dimension with Ender Dragons",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use a syringe to create a dimension with Ender Dragons"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 119
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "extrautils2:PassiveGenerator",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 8
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create near infinite Grid Power with an Extra Utilities Dragon Egg Mill",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create near infinite Grid Power with an Extra Utilities Dragon Egg Mill"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 120
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "colossalchests:uncolossalChest",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Create a 16x16x16 Colossal Chest",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Create a 16x16x16 Colossal Chest"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 121
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "quantumstorage:quantumdsu",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Fill a Quantum Storage Unit with anything",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Fill a Quantum Storage Unit with anything"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 122
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "extrautils2:RainbowGenerator",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft the Rainbow Generator and use it to produce power",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft the Rainbow Generator and use it to produce power"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 123
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "scanner:terrainScanner",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use the Terrain Scanner and regenerate 5 different biome chunks",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use the Terrain Scanner and regenerate 5 different biome chunks"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 124
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "enderio:blockCapBank",
+            "Count": 1,
+            "tag": {
+              "Energy:3": 2500000
+            },
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Produce 1 billion RF/t",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Produce 1 billion RF/t"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 125
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "chickens:colored_egg",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 15
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Get 20 different Chickens and automate resource collection",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Get 20 different Chickens and automate resource collection"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 126
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:diamond_block",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Use Diamond blocks to cool a max size reactor",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Use Diamond blocks to cool a max size reactor"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 127
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "enderio:blockFarmStation",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Build Ender IO Farming Stations with Octadic Capacitors which automate 20 different crops",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Build Ender IO Farming Stations with Octadic Capacitors which automate 20 different crops"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 128
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "extrautils2:CompressedCobblestone",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 7
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "Craft a single Octuple Compressed Cobblestone Block",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "Craft a single Octuple Compressed Cobblestone Block"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 129
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "snd_complete": "random.levelup",
+          "taskLogic": "AND",
+          "isMain": "false",
+          "simultaneous": "false",
+          "icon": {
+            "id": "minecraft:cake",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "snd_update": "random.levelup",
+          "repeatTime": -1,
+          "globalShare": "false",
+          "questLogic": "AND",
+          "name": "You have completed 100 percent of the achievements listed. What achievements can you come up with?",
+          "lockedProgress": "false",
+          "autoClaim": "false",
+          "isSilent": "false",
+          "desc": "You have completed 100 percent of the achievements listed. What achievements can you come up with?"
+        }
+      },
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 130
+    }
+  ],
+  "questLines": [
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Wood Age",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "A new age dawns before you! You don\u0027t have anything to work with but this tree, so let\u0027s make the most of it!"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 0
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 1
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 2
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 0,
+          "id": 3
+        },
+        {
+          "size": 24,
+          "x": 144,
+          "y": 0,
+          "id": 4
+        },
+        {
+          "size": 24,
+          "x": 180,
+          "y": 0,
+          "id": 5
+        },
+        {
+          "size": 24,
+          "x": 216,
+          "y": 0,
+          "id": 6
+        },
+        {
+          "size": 24,
+          "x": 252,
+          "y": 0,
+          "id": 7
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 8
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 9
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 10
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 36,
+          "id": 11
+        },
+        {
+          "size": 24,
+          "x": 144,
+          "y": 36,
+          "id": 12
+        },
+        {
+          "size": 24,
+          "x": 180,
+          "y": 36,
+          "id": 13
+        },
+        {
+          "size": 24,
+          "x": 216,
+          "y": 36,
+          "id": 14
+        }
+      ],
+      "lineID": 0,
+      "order": 0
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Stone Age",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Now that you have a good source of blocks, it\u0027s time to expand, upgrade, and improve your island a bit!"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 16
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 17
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 0,
+          "id": 18
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 19
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 20
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 21
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 36,
+          "id": 22
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 15
+        }
+      ],
+      "lineID": 1,
+      "order": 1
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Farming Age",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Time to fight back against this cold, empty void, and grow some things!"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 23
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 24
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 25
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 0,
+          "id": 26
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 27
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 28
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 29
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 36,
+          "id": 30
+        }
+      ],
+      "lineID": 2,
+      "order": 2
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Mystical Farming",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Resources are finite, but crops will grow whatever you need."
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 32
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 33
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 0,
+          "id": 34
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 35
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 36
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 37
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 31
+        }
+      ],
+      "lineID": 3,
+      "order": 3
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Age of Exploration",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "With the right tools you no longer have to be confined to your small island. Time to get out and stretch our legs! Try not to die..."
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 144,
+          "y": 36,
+          "id": 48
+        },
+        {
+          "size": 24,
+          "x": 180,
+          "y": 36,
+          "id": 49
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 38
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 39
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 40
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 0,
+          "id": 41
+        },
+        {
+          "size": 24,
+          "x": 144,
+          "y": 0,
+          "id": 42
+        },
+        {
+          "size": 24,
+          "x": 180,
+          "y": 0,
+          "id": 43
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 44
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 45
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 46
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 36,
+          "id": 47
+        }
+      ],
+      "lineID": 4,
+      "order": 4
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Age of Machines",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Your skill with technology is growing. Automation is key."
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 50
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 51
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 52
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 0,
+          "id": 53
+        },
+        {
+          "size": 24,
+          "x": 138,
+          "y": 0,
+          "id": 54
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 55
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 56
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 57
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 36,
+          "id": 58
+        }
+      ],
+      "lineID": 5,
+      "order": 5
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Age of Power",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Once you start on this path, how much is enough?"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 64
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 65
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 36,
+          "id": 66
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 59
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 60
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 61
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 0,
+          "id": 62
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 63
+        }
+      ],
+      "lineID": 6,
+      "order": 6
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Green Energy",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Free, renewable energy!"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 67
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 68
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 69
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 70
+        }
+      ],
+      "lineID": 7,
+      "order": 7
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Age of Enhancement",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Your tools are not powerful enough, time for an upgrade."
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 71
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 72
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 73
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 74
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 75
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 76
+        }
+      ],
+      "lineID": 8,
+      "order": 8
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Alchemic Wizardry",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": ""
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 108,
+          "y": 0,
+          "id": 80
+        },
+        {
+          "size": 24,
+          "x": 144,
+          "y": 0,
+          "id": 81
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 82
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 83
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 84
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 36,
+          "id": 85
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 77
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 78
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 79
+        }
+      ],
+      "lineID": 9,
+      "order": 9
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Age of the Botanist",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": ""
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 86
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 87
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 88
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 89
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 90
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 91
+        }
+      ],
+      "lineID": 10,
+      "order": 10
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Mastery",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": ""
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 92
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 93
+        }
+      ],
+      "lineID": 11,
+      "order": 11
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Age of Dragons",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "You will be tested. It takes a legend to conquer legends."
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 96
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 0,
+          "id": 97
+        },
+        {
+          "size": 24,
+          "x": 144,
+          "y": 0,
+          "id": 98
+        },
+        {
+          "size": 24,
+          "x": 180,
+          "y": 0,
+          "id": 99
+        },
+        {
+          "size": 24,
+          "x": 216,
+          "y": 0,
+          "id": 100
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 101
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 102
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 103
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 36,
+          "id": 104
+        },
+        {
+          "size": 24,
+          "x": 144,
+          "y": 36,
+          "id": 105
+        },
+        {
+          "size": 24,
+          "x": 180,
+          "y": 36,
+          "id": 106
+        },
+        {
+          "size": 24,
+          "x": 216,
+          "y": 36,
+          "id": 107
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 72,
+          "id": 108
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 72,
+          "id": 109
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 72,
+          "id": 110
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 72,
+          "id": 111
+        },
+        {
+          "size": 24,
+          "x": 144,
+          "y": 72,
+          "id": 112
+        },
+        {
+          "size": 24,
+          "x": 180,
+          "y": 72,
+          "id": 113
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 94
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 95
+        }
+      ],
+      "lineID": 12,
+      "order": 12
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Age of the Traveler",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "You have outgrown your home. The next step is creating your own dimension."
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 114
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 115
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 116
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 117
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 118
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 119
+        }
+      ],
+      "lineID": 13,
+      "order": 13
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "Age of Insanity",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "At last you\u0027ve got your production going and your machines are hard at work. It\u0027s time to REALLY have some fun!"
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 108,
+          "y": 36,
+          "id": 128
+        },
+        {
+          "size": 24,
+          "x": 144,
+          "y": 36,
+          "id": 129
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 120
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 0,
+          "id": 121
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 0,
+          "id": 122
+        },
+        {
+          "size": 24,
+          "x": 108,
+          "y": 0,
+          "id": 123
+        },
+        {
+          "size": 24,
+          "x": 144,
+          "y": 0,
+          "id": 124
+        },
+        {
+          "size": 24,
+          "x": 0,
+          "y": 36,
+          "id": 125
+        },
+        {
+          "size": 24,
+          "x": 36,
+          "y": 36,
+          "id": 126
+        },
+        {
+          "size": 24,
+          "x": 72,
+          "y": 36,
+          "id": 127
+        }
+      ],
+      "lineID": 14,
+      "order": 14
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "The End",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": "Finish all quests."
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": 0,
+          "y": 0,
+          "id": 130
+        }
+      ],
+      "lineID": 15,
+      "order": 15
+    }
+  ],
+  "format": "1.0.0"
+}
